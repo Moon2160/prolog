@@ -56,7 +56,7 @@ Key Capabilities
 🏗️ System Architecture
 
 
-<img width="652" height="710" alt="image" src="https://github.com/user-attachments/assets/fdbc6b8d-9ba7-4968-9339-66f639c99e48" />
+<img width="551" height="771" alt="image" src="https://github.com/user-attachments/assets/2ac50e1e-dba0-4a79-a333-81285db86f57" />
 
 
 
