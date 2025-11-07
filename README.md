@@ -200,6 +200,7 @@ Other Dilemmas
 
 
 📸 Screenshots
+
  Command-Line Interface
 
 =================================================
@@ -215,6 +216,8 @@ Please select an option:
 
 
 Python GUI Chatbot
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ec173cd-7297-4bdf-b74b-6aafe4fdaf36" />
 
  Analysis Output
